@@ -224,6 +224,7 @@ img
 		float:right;
 		border-width:5px;
 		border-right-width:10px;
+		border-top-width:10px;
 	}
 	
 	.footer
